@@ -1,6 +1,6 @@
 # Dad Jokes
 
-https://normstraker.github.io/Dad-jokes/
+https://normstraker.github.io/Dad-Jokes/
 
 - fetches jokes from icanhazdadjoke.com with button click
 
